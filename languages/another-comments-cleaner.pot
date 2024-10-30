@@ -1,0 +1,138 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ANCC\n"
+"POT-Creation-Date: 2016-12-02 22:07+0300\n"
+"PO-Revision-Date: 2015-10-07 15:01+0300\n"
+"Last-Translator: Rija Rajaonah\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/admin-page.php:24
+msgid "Cleaning Tasks"
+msgstr ""
+
+#: inc/admin-page.php:26
+msgid "Last execution"
+msgstr ""
+
+#: inc/admin-page.php:28 inc/plugin.php:235
+msgid "Deleted"
+msgid_plural "Deleted"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin-page.php:29 inc/plugin.php:237
+msgid "Moved to trash"
+msgid_plural "Moved to trash"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin-page.php:30 inc/plugin.php:239
+msgid "Ignored"
+msgid_plural "Ignored"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin-page.php:31
+msgid "Next task"
+msgstr ""
+
+#: inc/admin-page.php:34
+msgid "Clean immedately"
+msgstr ""
+
+#: inc/admin-page.php:35
+msgid "Clean now"
+msgstr ""
+
+#: inc/admin-page.php:36
+msgid ""
+"If you edited the bulk actions fields bellow without saving the "
+"changes, the currently display actions will be taken, not the settings "
+"stored in the plugin&#39;s options"
+msgstr ""
+
+#: inc/admin-page.php:39 inc/admin-page.php:43
+msgid "Bulk Actions"
+msgstr ""
+
+#: inc/admin-page.php:42
+msgid "Comment status"
+msgstr ""
+
+#: inc/admin-page.php:61 inc/admin-page.php:88
+msgid "Save Changes"
+msgstr ""
+
+#: inc/admin-page.php:64
+msgid "Cleaning tasks Schedule"
+msgstr ""
+
+#: inc/admin-page.php:66
+msgid "Disabled"
+msgstr ""
+
+#: inc/admin-page.php:70
+msgid "Default periods"
+msgstr ""
+
+#: inc/admin-page.php:72
+msgid "hourly"
+msgstr ""
+
+#: inc/admin-page.php:73
+msgid "daily"
+msgstr ""
+
+#: inc/admin-page.php:74
+msgid "twice daily"
+msgstr ""
+
+#: inc/admin-page.php:78
+msgid "At a given hour, every N days"
+msgstr ""
+
+#: inc/admin-page.php:84
+msgid "Time"
+msgstr ""
+
+#: inc/admin-page.php:87
+msgid "24 hours format UTC time"
+msgstr ""
+
+#: inc/plugin.php:231
+msgid "No comment to delete"
+msgstr ""
+
+#: inc/plugin.php:234
+#, php-format
+msgid "Done. %s: %s, %s: %s, %s: %s"
+msgstr ""
+
+#: inc/plugin.php:344
+msgid "Ignore"
+msgstr ""
+
+#: inc/plugin.php:370
+msgid "An unknown error occurred"
+msgstr ""
+
+#: inc/plugin.php:381
+msgid "Comments Cleaner"
+msgstr ""
+
+#: inc/plugin.php:381
+msgid "Cleaner"
+msgstr ""
